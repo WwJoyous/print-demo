@@ -1,0 +1,57 @@
+.fs-13{
+    font-size: 13px;
+    font-family: Arial, Microsoft YaHei, sans-serif
+}
+
+.w-1084p {
+    width: 1084px;
+}
+
+.w-1080p {
+    width: 1080px;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.w-90p{
+    width: 90px;
+}
+
+.w-120p{
+    width: 120px;
+}
+
+.w-150p{
+    width: 150px;
+}
+
+.w-170p{
+    width: 170px;
+}
+
+.w-200p{
+    width: 200px;
+}
+
+.text-align-center{
+    margin: auto;
+    text-align: center
+}
+
+.border-back-2{
+    border: 2px solid black;
+}
+
+.word-break{
+    word-break: break-all;    
+}
+
+.font-weight-bold{
+    font-weight: bold;
+}
+
+td{
+    padding: 5px;
+}
